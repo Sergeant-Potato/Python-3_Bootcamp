@@ -79,4 +79,4 @@ Now matter the method the used, this should be the output, as shown via _NBVIEWE
 
 ## Acknowledgements
 - Polytechnic University of Puerto Rico RIOT Robotics Student Organization
-- [Fast Inverse Square Root - Wikipedia]([https://en.wikipedia.org/wiki/Caesar_cipher](https://en.wikipedia.org/wiki/Fast_inverse_square_root)https://en.wikipedia.org/wiki/Fast_inverse_square_root)
+- [Fast Inverse Square Root - Wikipedia](https://en.wikipedia.org/wiki/Fast_inverse_square_root)https://en.wikipedia.org/wiki/Fast_inverse_square_root)
